@@ -13,3 +13,9 @@ address-parse.js : 智能解析地址js
 area-list.js : 基于weui的cityPicker地址选择器组件地址库 
 
 如果地址库不匹配只需要更新area-list 即可
+
+
+原作者rep地址：https://github.com/wzc570738205/smart_parse
+## 变更
+- 基于weui更新了最新的地址库
+- match地址修改部分逻辑
